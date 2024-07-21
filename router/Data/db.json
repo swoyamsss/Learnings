@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Superman's Powers and Abilities",
+      "dateTime": "2024 1:26:14 AM, 26 21",
+      "body": "Superman, born Kal-El on the planet Krypton, possesses superhuman strength, speed, flight, and heat vision. Created by Jerry Siegel and Joe Shuster, he debuted in Action Comics #1 in 1938."
+    },
+    {
+      "id": "2",
+      "title": "Aquaman: King of Atlantis",
+      "dateTime": "2024 1:26:46 AM, 26 21",
+      "body": "Aquaman, or Arthur Curry, is the king of Atlantis with the ability to communicate with marine life and superhuman abilities underwater. Created by Paul Norris and Mort Weisinger, he first appeared in More Fun Comics #73 in 1941."
+    },
+    {
+      "id": "3",
+      "title": "Green Lantern: The Emerald Warrior",
+      "dateTime": "2024 9:49:05 AM, 49 21",
+      "body": "Green Lantern, primarily Hal Jordan, is a member of the intergalactic police force known as the Green Lantern Corps. Created by John Broome and Gil Kane, he first appeared in Showcase #22 in 1959. Equipped with a power ring that grants him incredible abilities, Green Lantern is tasked with protecting the universe from all manner of threats."
+    }
+  ]
+}
