@@ -1,0 +1,25 @@
+.App {
+  margin-bottom: 0px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.NavBar{
+  display: flex;
+  flex: 1;
+  position:sticky;
+}
+.NavBar > button{
+  height: 50px;
+  width: 100vw;
+  font-weight: 1000;
+  background-color:crimson;
+  color: white;
+  font-size: 16px;
+}
+
+p{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight:600;
+  color: black;
+}
